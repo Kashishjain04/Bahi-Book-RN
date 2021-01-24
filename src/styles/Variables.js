@@ -1,0 +1,9 @@
+export const card__text = '#000000',
+  secondary__text = '#ababab',
+  logout__btn = '#000000',
+  positive = '#3f8600',
+  negative = '#cf1322',
+  timestamp__text = '#666666',
+  card__bg = '#ffffff',
+  container__bg = '#ececec',
+  shadow__color = '#ababab';
