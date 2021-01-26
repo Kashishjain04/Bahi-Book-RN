@@ -2,7 +2,7 @@
 
 ![bahi book](https://firebasestorage.googleapis.com/v0/b/bahi-book.appspot.com/o/icon.png?alt=media&token=13344b24-3410-4047-957a-e6447432c4e7)
 
-Account manager app, where you can track payments along your friends.
+Account manager app, where you can track payments among your friends.
 
 Checkout web version of Bahi Book: [https://bahi-book.web.app](https://bahi-book.web.app)
 
